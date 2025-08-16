@@ -49,3 +49,6 @@ Update with this configuration:
 
 Restart Claude and you should see the tools become available. 
 # mcp-server-calculator
+
+
+# These are my new comments that we will need to push to Github.
